@@ -1,0 +1,16 @@
+{
+    "notifies":[
+        {
+          "id": 1,
+          "about":
+          "Flash Sale 07/07 - Giảm giá lên đến 50%"
+        },
+        {
+          "id": 2,
+          "about":
+            "Mua giày ngay- Nhận Ngay Hàng Hiệu"
+          
+        }
+        
+    ]
+}

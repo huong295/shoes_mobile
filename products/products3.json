@@ -1,0 +1,23 @@
+{
+  "products":[
+      {
+          "id": 12,
+          "name": "Adidas Adilette 22 Slides ‘Black Grey’",
+          "price": 14.99,
+          "like": true,
+          "img": "https://product.hstatic.net/200000516983/product/image-removebg-preview_-_2022-10-16t193506.300_928ebc9053a348b5bd7e0186585b7c1a_master.png",
+          "about":
+            "kid shoes ™"
+        },
+      
+        {
+          "id": 12,
+          "name": "Adidas Adilette 22 Slides ‘Black Grey’",
+          "price": 14.99,
+          "like": true,
+          "img": "https://product.hstatic.net/200000516983/product/image-removebg-preview_-_2022-10-16t193506.300_928ebc9053a348b5bd7e0186585b7c1a_master.png",
+          "about":
+            "kid shoes ™"
+        }
+  ]
+}

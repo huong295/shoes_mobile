@@ -1,0 +1,24 @@
+{
+    "products":[
+        {
+            "id": 17,
+            "name": "Nike Hyper Adapt 1.0",
+            "price": 2899.99,
+            "like": true,
+            "img": "https://product.hstatic.net/200000516983/product/img_5698_91b7b381b2bc42679ade8966cc7fd3ce_master.jpg",
+            "about":
+              "Nice"
+          },
+        
+          {
+            "id": 17,
+            "name": "Nike Hyper Adapt 1.0",
+            "price": 2899.99,
+            "like": true,
+            "img": "https://product.hstatic.net/200000516983/product/img_5698_91b7b381b2bc42679ade8966cc7fd3ce_master.jpg",
+            "about":
+              "Nice"
+          }
+        
+      ]
+    }
